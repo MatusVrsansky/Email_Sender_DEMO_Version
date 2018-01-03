@@ -13,4 +13,7 @@ Bugs:
 - would like to provide PDF manual for someone who do not know how to run "local web server".
 
 
+
+Sending mails works only through my gmail adress, due to not hashed password I did not registered my personal Gmail account data to the database. 
+
 I would like to finish this app in the near future, still working on it :)
